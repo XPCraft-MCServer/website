@@ -14,7 +14,7 @@ title: 欢迎来到 XPCraft
 与志同道合的伙伴一起玩耍是最快乐的事！请点击下方醒目的按钮，快速加入我们的QQ群，获取服务器最新地址和玩家指南。
 
 <div align="center">
-  <a href="https://qm.qq.com/cgi-bin/qm/qr?k=这里替换成你的QQ群链接密钥" target="_blank" style="text-decoration: none;">
+  <a href="https://qm.qq.com/q/1QdNEI5qzK" target="_blank" style="text-decoration: none;">
     <button style="background-color: #2EA043; color: white; border: none; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 18px; font-weight: bold; border-radius: 8px; cursor: pointer; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       🎮 点击加入 XPCraft QQ 群
     </button>
